@@ -1,3 +1,31 @@
-# Controle de Usuários 
-Projeto em PHP realizado a fim de desenvolver conceitos de Orientação a Objetos e praticar a linguagem PHP. 
-Essa aplicação, com o auxílio do bootstrap para melhor usabilidade, realiza o cadastro, alteração e exclusão de usuários presentes em um banco de dados. Além disso, todos os cadastros são exibidos na tela inicial. 
+# 👥 User Management System  
+### PHP CRUD Application
+
+This project is a web application developed in PHP to practice Object-Oriented Programming concepts and core backend development.
+
+It provides a simple and functional interface for managing users stored in a database.
+
+---
+
+## 📌 Purpose
+
+The main goal of this project is to apply OOP principles in PHP while building a complete CRUD system.
+
+---
+
+## 🧩 Features
+
+- Create new users  
+- View all registered users  
+- Update user information  
+- Delete users  
+- Data persistence using a database  
+
+---
+
+## 🎯 Learning Outcomes
+
+- Application of OOP in PHP  
+- Implementation of CRUD operations  
+- Integration between backend and database  
+- Basic UI structuring with Bootstrap  
